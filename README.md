@@ -24,7 +24,7 @@
    - Load `monthly_sales_by_store.csv`, `monthly_sales_by_category.csv`, and the `forecast.csv` you generated.
    - Follow `POWER_BI_GUIDE.md` to build KPIs and visuals.
 
-## Resume Bullets (you can copy)
+
 - Utilized a time-series forecasting model (Prophet) to predict monthly sales for a retail chain with ~92% validation accuracy (MAPE ≤ 8%).
 - Designed a KPI dashboard in Power BI to track sales trends, revenue targets, and seasonal demand changes.
 - Insights supported inventory optimization; variance flags helped reduce overstock exposure by ~15% in simulations.
